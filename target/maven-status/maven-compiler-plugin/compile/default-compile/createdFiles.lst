@@ -1,0 +1,5 @@
+com\mycompany\descargadearchivos\DescargaDeArchivos.class
+excepciones\TiempoExcedidoException.class
+modelo\ArchivoDescarga.class
+controlador\DescargaController.class
+modelo\ProcesoDescargaHilo.class
